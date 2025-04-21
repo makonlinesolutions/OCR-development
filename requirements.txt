@@ -1,0 +1,6 @@
+pytesseract
+opencv-python
+pillow
+fastapi
+uvicorn
+pip install pdf2image
